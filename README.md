@@ -5,8 +5,7 @@
 Me chamo João Pedro Ferreira, tenho 29 anos e sou natural do Rio de Janeiro, RJ. Atuo como Desenvolvedor com foco no ecossistema Java e Spring Boot, construindo APIs seguras e escaláveis. Atualmente, aprofundo meus conhecimentos cursando uma Pós-Graduação em Java Applied Engineering na UNIPDS, onde também atuo como Embaixador de Turma. Sou apaixonado por engenharia de software e compartilho meu conhecimento através da minha comunidade de mentoria no Discord, "[MentoriaTech Jota](https://discord.gg/rHMA9eMBTg)", onde oriento novos desenvolvedores, e também detalho meus projetos práticos e corporativos no meu Instagram, "[@jotadevs](https://www.instagram.com/jotadevs/)".
 
 <p align="left">
-  <a href="https://instagram.com/jotadevs" target="_blank"><img src="https://img.shields.io/badge/Instagram
-  -9.6k-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Seg."></a>
+  <a href="https://instagram.com/jotadevs" target="_blank"><img src="https://img.shields.io/badge/Instagram-9.6k-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Seg."></a>
   <a href="https://discord.gg/rHMA9eMBTg" target="_blank"><img src="https://img.shields.io/badge/Membros-52-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Membros do Discord"></a>
 </p>
 
@@ -43,5 +42,19 @@ Me chamo João Pedro Ferreira, tenho 29 anos e sou natural do Rio de Janeiro, RJ
 
 <h1><b>Estatísticas</b></h1>
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jotadevs17&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/jotadevs17)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs?username=jotadevs17&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/jotadevs17)
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=jotadevs17&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotadevs17&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
