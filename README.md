@@ -38,23 +38,3 @@ Me chamo João Pedro Ferreira, tenho 29 anos e sou natural do Rio de Janeiro, RJ
   <img src="https://img.shields.io/badge/LangChain-D4E157?style=for-the-badge&logo=linktree&logoColor=black" alt="LangChain">
   <img src="https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
 </p>
-
-
-<h1><b>Estatísticas</b></h1>
-
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=jotadevs17&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotadevs17&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
